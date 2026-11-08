@@ -1,0 +1,7 @@
+<resources>
+        <string name="app_name">M5_01</string>
+        <string name="titulo">Secuencia Fibonacci</string>
+        <string name="mensaje_inicial">Presiona Avanzar</string>
+        <string name="boton_avanzar">Avanzar</string>
+        <string name="boton_retroceder">Retroceder</string>
+</resources>
